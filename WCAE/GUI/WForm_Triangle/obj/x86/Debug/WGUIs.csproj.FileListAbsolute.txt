@@ -1,0 +1,14 @@
+G:\WCAE\WCAE\WGDIs\obj\x86\Debug\WGUIs.csprojResolveAssemblyReference.cache
+G:\WCAE\WCAE\WGDIs\obj\x86\Debug\WGUIs.csproj.GenerateResource.Cache
+G:\WCAE\WCAE\WGDIs\obj\x86\Debug\WCAE.WGUIs.IO.FormExport.resources
+G:\WCAE\WCAE\WGDIs\obj\x86\Debug\WCAE.WGUIs.IO.FormGenerator.resources
+G:\WCAE\WCAE\WGDIs\obj\x86\Debug\WCAE.WGUIs.IO.FormLog.resources
+G:\WCAE\WCAE\WGDIs\obj\x86\Debug\WCAE.WGUIs.IO.FormMain.resources
+G:\WCAE\WCAE\WGDIs\obj\x86\Debug\WCAE.WGUIs.IO.Views.AboutView.resources
+G:\WCAE\WCAE\WGDIs\obj\x86\Debug\WCAE.WGUIs.IO.Views.MeshControlView.resources
+G:\WCAE\WCAE\WGDIs\obj\x86\Debug\WCAE.WGUIs.IO.Views.StatisticView.resources
+G:\WCAE\Dlls\Mesh Explorer.exe.config
+G:\WCAE\Dlls\Mesh Explorer.exe
+G:\WCAE\Dlls\Mesh Explorer.pdb
+G:\WCAE\WCAE\WGDIs\obj\x86\Debug\Mesh Explorer.exe
+G:\WCAE\WCAE\WGDIs\obj\x86\Debug\Mesh Explorer.pdb

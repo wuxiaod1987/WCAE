@@ -1,0 +1,15 @@
+G:\WCAE\WCAE\Dlls\WFEM\WAbaqus.exe.config
+G:\WCAE\WCAE\Dlls\WFEM\WAbaqus.exe
+G:\WCAE\WCAE\Dlls\WFEM\WAbaqus.pdb
+G:\WCAE\WCAE\FEM\WAbaqus\obj\Debug\WAbaqus.csprojResolveAssemblyReference.cache
+G:\WCAE\WCAE\FEM\WAbaqus\obj\Debug\WCAE.WFEM.WAbaqus.Form_Res.resources
+G:\WCAE\WCAE\FEM\WAbaqus\obj\Debug\WAbaqus.csproj.GenerateResource.Cache
+G:\WCAE\WCAE\FEM\WAbaqus\obj\Debug\WAbaqus.exe
+G:\WCAE\WCAE\FEM\WAbaqus\obj\Debug\WAbaqus.pdb
+G:\WCAE\Dlls\WFEM\WAbaqus.exe.config
+G:\WCAE\Dlls\WFEM\WAbaqus.exe
+G:\WCAE\Dlls\WFEM\WAbaqus.pdb
+G:\FY_FEMs\WCAE\WCAE\FEM\WAbaqus\obj\Debug\WAbaqus.csprojResolveAssemblyReference.cache
+G:\FY_FEMs\WCAE\WCAE\FEM\WAbaqus\obj\Debug\WCAE.WFEM.WAbaqus.Form_Res.resources
+G:\FY_FEMs\WCAE\WCAE\FEM\WAbaqus\obj\Debug\WAbaqus.csproj.GenerateResource.Cache
+G:\FY_FEMs\WCAE\WCAE\FEM\WAbaqus\obj\Debug\WAbaqus.exe

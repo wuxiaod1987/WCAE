@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{44ED3841-6297-4796-AA85-94659D352D8D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WCAE.WGeos2D</RootNamespace>
+    <AssemblyName>WGeos2D</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\..\..\FY_FEMs\WCAE\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Entities\GeoKind.cs" />
+    <Compile Include="Entities\ShowSort.cs" />
+    <Compile Include="Entities\WBoundingBox.cs" />
+    <Compile Include="Entities\WArc2D.cs" />
+    <Compile Include="Entities\WCircle2D.cs" />
+    <Compile Include="Entities\WShapeRim2D.cs" />
+    <Compile Include="Entities\WRim2D.cs" />
+    <Compile Include="Entities\WText2D.cs" />
+    <Compile Include="Funcs\Geo2D_CurvesRims.cs" />
+    <Compile Include="Funcs\Geo2D_CurvesRims_Old2.cs" />
+    <Compile Include="Funcs\Geos2D_Intersection.cs" />
+    <Compile Include="Funcs\Geos2D_Modify.cs" />
+    <Compile Include="Funcs\Geos2D_Other.cs" />
+    <Compile Include="Funcs\Geos2D_Selection.cs" />
+    <Compile Include="Funcs\Geo2D_CurvesRims_Old.cs" />
+    <Compile Include="IO\WGeo2DFile.cs" />
+    <Compile Include="Units\Angle.cs" />
+    <Compile Include="Entities\WCurve2D.cs" />
+    <Compile Include="Entities\WEntity2D.cs" />
+    <Compile Include="Entities\WPolyLine2D.cs" />
+    <Compile Include="Units\AngleUnit.cs" />
+    <Compile Include="Units\Degrees.cs" />
+    <Compile Include="Units\IAngleUnit.cs" />
+    <Compile Include="Units\IUnit.cs" />
+    <Compile Include="Units\Radians.cs" />
+    <Compile Include="Units\UnitConverter.cs" />
+    <Compile Include="IO\WUtil.cs" />
+    <Compile Include="WGeometry2D.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Entities\WLine2D.cs" />
+    <Compile Include="Entities\WPoint2D.cs" />
+    <Compile Include="Entities\WVector2D.cs" />
+    <Compile Include="WGeos2D_Paras.cs" />
+    <Compile Include="WGeos2D_PsList.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Mesh\WTriangle\Triangle.csproj">
+      <Project>{f7907a0a-b75f-400b-9e78-bfad00db4d6b}</Project>
+      <Name>Triangle</Name>
+      <Private>False</Private>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

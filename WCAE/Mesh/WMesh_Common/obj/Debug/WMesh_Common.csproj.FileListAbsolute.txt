@@ -1,0 +1,4 @@
+G:\WCAE\WCAE\Dlls\WMesh\WMesh_Common.dll
+G:\WCAE\WCAE\Dlls\WMesh\WMesh_Common.pdb
+G:\WCAE\WCAE\Mesh\WMesh_Common\obj\Debug\WMesh_Common.dll
+G:\WCAE\WCAE\Mesh\WMesh_Common\obj\Debug\WMesh_Common.pdb

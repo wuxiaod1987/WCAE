@@ -1,0 +1,45 @@
+G:\WCAE\WCAE\Dlls\WForms\Mesh Explorer.exe.config
+G:\WCAE\WCAE\Dlls\WForms\Mesh Explorer.exe
+G:\WCAE\WCAE\Dlls\WForms\Mesh Explorer.pdb
+G:\WCAE\WCAE\Forms\WForm_Triangle\obj\x86\Debug\WCAE.WGUIs.IO.FormExport.resources
+G:\WCAE\WCAE\Forms\WForm_Triangle\obj\x86\Debug\WCAE.WGUIs.IO.FormGenerator.resources
+G:\WCAE\WCAE\Forms\WForm_Triangle\obj\x86\Debug\WCAE.WGUIs.IO.FormLog.resources
+G:\WCAE\WCAE\Forms\WForm_Triangle\obj\x86\Debug\WCAE.WGUIs.IO.FormMain.resources
+G:\WCAE\WCAE\Forms\WForm_Triangle\obj\x86\Debug\WCAE.WGUIs.IO.Views.AboutView.resources
+G:\WCAE\WCAE\Forms\WForm_Triangle\obj\x86\Debug\WCAE.WGUIs.IO.Views.MeshControlView.resources
+G:\WCAE\WCAE\Forms\WForm_Triangle\obj\x86\Debug\WCAE.WGUIs.IO.Views.StatisticView.resources
+G:\WCAE\WCAE\Forms\WForm_Triangle\obj\x86\Debug\WForm_Triangle.csproj.GenerateResource.Cache
+G:\WCAE\WCAE\Forms\WForm_Triangle\obj\x86\Debug\Mesh Explorer.exe
+G:\WCAE\WCAE\Forms\WForm_Triangle\obj\x86\Debug\Mesh Explorer.pdb
+G:\WCAE\Dlls\WForms\Mesh Explorer.exe.config
+G:\WCAE\Dlls\WForms\Mesh Explorer.exe
+G:\WCAE\Dlls\WForms\Mesh Explorer.pdb
+G:\WCAE\WCAE\Forms\WForm_Triangle\obj\x86\Debug\WForm_Triangle.csprojResolveAssemblyReference.cache
+G:\WCAE\WCAE\GUI\WForm_Triangle\obj\x86\Debug\Mesh Explorer.exe
+G:\WCAE\WCAE\GUI\WForm_Triangle\obj\x86\Debug\Mesh Explorer.pdb
+G:\WCAE\WCAE\GUI\WForm_Triangle\obj\x86\Debug\WForm_Triangle.csprojResolveAssemblyReference.cache
+G:\WCAE\WCAE\GUI\WForm_Triangle\obj\x86\Debug\WCAE.WTriangle.IO.FormExport.resources
+G:\WCAE\WCAE\GUI\WForm_Triangle\obj\x86\Debug\WCAE.WTriangle.IO.FormGenerator.resources
+G:\WCAE\WCAE\GUI\WForm_Triangle\obj\x86\Debug\WCAE.WTriangle.IO.FormLog.resources
+G:\WCAE\WCAE\GUI\WForm_Triangle\obj\x86\Debug\WCAE.WTriangle.IO.FormMain.resources
+G:\WCAE\WCAE\GUI\WForm_Triangle\obj\x86\Debug\WCAE.WTriangle.IO.Views.AboutView.resources
+G:\WCAE\WCAE\GUI\WForm_Triangle\obj\x86\Debug\WCAE.WTriangle.IO.Views.MeshControlView.resources
+G:\WCAE\WCAE\GUI\WForm_Triangle\obj\x86\Debug\WCAE.WTriangle.IO.Views.StatisticView.resources
+G:\WCAE\WCAE\GUI\WForm_Triangle\obj\x86\Debug\WForm_Triangle.csproj.GenerateResource.Cache
+G:\WCAE\Dlls\WGUIs\Mesh Explorer.exe.config
+G:\WCAE\Dlls\WGUIs\Mesh Explorer.exe
+G:\WCAE\Dlls\WGUIs\Mesh Explorer.pdb
+G:\FY_FEMs\WCAE\Dlls\WGUIs\Mesh Explorer.exe.config
+G:\FY_FEMs\WCAE\WCAE\GUI\WForm_Triangle\obj\x86\Debug\Mesh Explorer.exe
+G:\FY_FEMs\WCAE\WCAE\GUI\WForm_Triangle\obj\x86\Debug\Mesh Explorer.pdb
+G:\FY_FEMs\WCAE\Dlls\WGUIs\Mesh Explorer.exe
+G:\FY_FEMs\WCAE\Dlls\WGUIs\Mesh Explorer.pdb
+G:\FY_FEMs\WCAE\WCAE\GUI\WForm_Triangle\obj\x86\Debug\WForm_Triangle.csprojResolveAssemblyReference.cache
+G:\FY_FEMs\WCAE\WCAE\GUI\WForm_Triangle\obj\x86\Debug\WCAE.WTriangle.IO.FormExport.resources
+G:\FY_FEMs\WCAE\WCAE\GUI\WForm_Triangle\obj\x86\Debug\WCAE.WTriangle.IO.FormGenerator.resources
+G:\FY_FEMs\WCAE\WCAE\GUI\WForm_Triangle\obj\x86\Debug\WCAE.WTriangle.IO.FormLog.resources
+G:\FY_FEMs\WCAE\WCAE\GUI\WForm_Triangle\obj\x86\Debug\WCAE.WTriangle.IO.FormMain.resources
+G:\FY_FEMs\WCAE\WCAE\GUI\WForm_Triangle\obj\x86\Debug\WCAE.WTriangle.IO.Views.AboutView.resources
+G:\FY_FEMs\WCAE\WCAE\GUI\WForm_Triangle\obj\x86\Debug\WCAE.WTriangle.IO.Views.MeshControlView.resources
+G:\FY_FEMs\WCAE\WCAE\GUI\WForm_Triangle\obj\x86\Debug\WCAE.WTriangle.IO.Views.StatisticView.resources
+G:\FY_FEMs\WCAE\WCAE\GUI\WForm_Triangle\obj\x86\Debug\WForm_Triangle.csproj.GenerateResource.Cache

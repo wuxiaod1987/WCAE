@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3BA5F8CA-651A-4CBF-9AB3-1866321D51A1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WGUIs</RootNamespace>
+    <AssemblyName>WGUIs</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\..\..\FY_FEMs\WCAE\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controls\WColorBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\WComboArrow.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\WCombo.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\WDarkButtonClose.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\WTextBox_Under.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\WAngleHistogram.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\WColorS_Dark.cs" />
+    <Compile Include="Controls\WDarkButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\WDarkCheckBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\WDarkDropBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\WDarkListBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\WDarkSlider.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\WDarkTabControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\WDarkTextB_Und.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\WDarkTextB_Rim.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\WDarkToolStripRenderer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Controls\WCombo - 复制.resx">
+      <DependentUpon>WComboArrow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\WCombo.resx">
+      <DependentUpon>WCombo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\WTextBox_Under.resx">
+      <DependentUpon>WTextBox_Under.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

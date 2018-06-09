@@ -1,0 +1,12 @@
+G:\Abq_Trial\Abq_Trial\bin\Debug\Abq_Trial.exe.config
+G:\Abq_Trial\Abq_Trial\bin\Debug\Abq_Trial.exe
+G:\Abq_Trial\Abq_Trial\bin\Debug\Abq_Trial.pdb
+G:\Abq_Trial\Abq_Trial\obj\Debug\Abq_Trial.csprojResolveAssemblyReference.cache
+G:\Abq_Trial\Abq_Trial\obj\Debug\Abq_Trial.exe
+G:\Abq_Trial\Abq_Trial\obj\Debug\Abq_Trial.pdb
+G:\Glass_Lines\Abq_Trial\Abq_Trial\bin\Debug\Abq_Trial.exe.config
+G:\Glass_Lines\Abq_Trial\Abq_Trial\obj\Debug\Abq_Trial.exe
+G:\Glass_Lines\Abq_Trial\Abq_Trial\obj\Debug\Abq_Trial.pdb
+G:\Glass_Lines\Abq_Trial\Abq_Trial\obj\Debug\Abq_Trial.csprojResolveAssemblyReference.cache
+G:\Glass_Lines\Abq_Trial\Abq_Trial\bin\Debug\Abq_Trial.exe
+G:\Glass_Lines\Abq_Trial\Abq_Trial\bin\Debug\Abq_Trial.pdb
